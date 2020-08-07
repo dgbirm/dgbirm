@@ -20,12 +20,12 @@
 ## 📫 How to reach me: ...
 :necktie: [LinkedIn][LinkedIn] **|** 
 :bowtie: [ClikSource][ClikSource] **|**
-:e-mail: 
+:e-mail: [E-mail][E-mail]
 
 
-[banner]: ./GHorizonBanner.png
+[banner]: https://raw.githubusercontent.com/dgbirm/dgbirm/master/GHorizonBanner.png
 [ghStats]: https://github-readme-stats.vercel.app/api?username=dgbirm&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
 [LinkedIn]: https://www.linkedin.com/in/dan-birmingham/
 [Cliksource]: https://apps.cliksource.com/jumpprofessional/coverPage/DanielBirmingham
-
+[E-mail]: mailto:dgbirm@gmail.com
 
