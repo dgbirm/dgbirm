@@ -8,8 +8,6 @@
 # Hi, I'm Dan! 👋 
 
 - 🔭 I’m currently working on building Full Stack web applications
-- 🌱 I’m currently learning React, ML, Pandas
-- 👯 I’m looking for employment as a Full Stack developer
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am super passionate about African and Latin Social Dancing
 
